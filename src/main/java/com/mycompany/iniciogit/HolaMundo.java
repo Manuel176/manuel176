@@ -11,3 +11,7 @@ package com.mycompany.iniciogit;
 public class HolaMundo {
     
 }
+public class despedida{
+    String despedida; 
+    
+}
